@@ -1,60 +1,38 @@
-# SEBASTIAN BENAVIDES
+# ¡Hola, soy Sebastián Benavides!
 
-## JUNIOR FULL STACK DEVELOPER
+## Desarrollador Full Stack Junior
 
-### About Me
+### Acerca de mí
 
-I am a passionate Junior Full Stack developer with a strong interest in technology, characterized by curiosity and a solution-oriented mindset. I am organized and consistent, which makes me efficient and punctual. I highly value communication and commitment in teamwork. Furthermore, my experience in karate has instilled discipline and tenacity in me, particularly in high-pressure situations. I am seeking opportunities within a dynamic company to contribute and continue learning in my career as a developer.
+Soy un apasionado desarrollador Full Stack Junior con un sólido interés en la tecnología, caracterizado por mi curiosidad y mentalidad orientada a la resolución de problemas. Mi organización y consistencia me hacen eficiente y puntual. Valoro la comunicación y el compromiso en el trabajo en equipo.
 
-### Experience
+Además, mi experiencia en karate me ha inculcado disciplina y tenacidad, especialmente en situaciones de alta presión. Estoy en búsqueda de oportunidades en una empresa dinámica para contribuir y seguir aprendiendo en mi carrera como desarrollador.
 
-**Bama sistemas** (Madrid, Spain, 2023)
+### Experiencia
 
-- Support in technical design by analyzing the technical requirements of the application.
-- Assist in the integration of technical components and applications to meet business requirements.
-- Conduct unit tests and participate in integration testing.
-- Maintain, adjust, and repair applications to ensure their performance aligns with technical and functional specifications.
-- Document and provide training and user support.
+**Bama Sistemas** (Madrid, España, 2023)
 
-**Somos F5 y Thoughtworks** (Madrid, Spain, 2023)
+- Soporte en el diseño técnico mediante el análisis de los requisitos técnicos de la aplicación.
+- Ayuda en la integración de componentes técnicos y aplicaciones para cumplir con los requisitos empresariales.
+- Realización de pruebas unitarias y participación en pruebas de integración.
+- Mantenimiento, ajuste y reparación de aplicaciones para garantizar que su rendimiento se ajuste a las especificaciones técnicas y funcionales.
+- Documentación y capacitación de usuarios.
 
-Full Stack Developer in an e-commerce hackathon, enhancing UX, search, and security. I designed functionalities, scalability, database architecture, and RESTful API. Proficient in problem-solving under pressure.
+**Somos F5 y Thoughtworks** (Madrid, España, 2023)
 
-### Education
+Desarrollador Full Stack en un hackatón de comercio electrónico, mejorando la experiencia del usuario, la búsqueda y la seguridad. Diseñé funcionalidades, arquitectura de base de datos y API RESTful, y tengo experiencia en la resolución de problemas bajo presión.
 
-- F5-FUNDACION TOMILLO (Madrid)
-  - Cybersecurity Course 2023 (Hours: 250)
+### Educación
 
-- F5-FUNDACION TOMILLO (Madrid)
-  - Full Stack Web Development Bootcamp 2023 (Hours: 850)
+- **F5-FUNDACIÓN TOMILLO** (Madrid)
+  - Curso de Ciberseguridad 2023 (250 horas)
 
-### Soft Skills
+- **F5-FUNDACIÓN TOMILLO** (Madrid)
+  - Bootcamp de Desarrollo Web Full Stack 2023 (850 horas)
 
-- Effective Communication.
-- Teamwork.
-- Critical Thinking.
-- Problem Solving.
-- Adaptability.
-- Continuous Learning.
-- Empathy.
-- Decision Making.
-- Leadership Skills.
-- Organization.
+### Habilidades
 
-### Languages
-
-- Spanish
-- English
-
-### Others
-
-- Driver's License
-- Own Vehicle
-- Immediate Availability
-
-### Skills
-
-#### Key Languages and Technologies:
+#### Lenguajes y Tecnologías Clave:
 
 - HTML
 - CSS
@@ -63,42 +41,66 @@ Full Stack Developer in an e-commerce hackathon, enhancing UX, search, and secur
 - Node.js
 - Express.js
 
-#### Design and UI Tools and Frameworks:
+#### Herramientas y Frameworks de Diseño y UI:
 
 - Materialize
 - Material-UI
 - Bootstrap
 - Figma
 
-#### Version Control and Collaboration:
+#### Control de Versiones y Colaboración:
 
 - Git
 - GitHub
 
-#### Project Management:
+#### Gestión de Proyectos:
 
 - Trello
 
-#### Testing and Code Quality:
+#### Pruebas y Calidad del Código:
 
 - Jest
 
-#### Containers and Deployment:
+#### Contenedores y Despliegue:
 
 - Docker
 
-#### Database Management:
+#### Gestión de Bases de Datos:
 
 - MySQL
 - MongoDB
 
-### Contact
+### Habilidades Blandas
 
-- Phone: 609151049 (Madrid)
-- Email: sebasheins@gmail.com
-- Location: Madrid, Spain
+- Comunicación Efectiva
+- Trabajo en Equipo
+- Pensamiento Crítico
+- Resolución de Problemas
+- Adaptabilidad
+- Aprendizaje Continuo
+- Empatía
+- Toma de Decisiones
+- Habilidades de Liderazgo
+- Organización
 
-### Links
+### Idiomas
 
-- [GitHub Profile](https://github.com/sebasbh)
-- [LinkedIn Profile](https://www.linkedin.com/in/sebastian-benavides-heins/)
+- Español
+- Inglés
+
+### Otros
+
+- Licencia de Conducir
+- Vehículo Propio
+- Disponibilidad Inmediata
+
+### Contacto
+
+- Teléfono: 609151049 (Madrid)
+- Correo Electrónico: sebasheins@gmail.com
+- Ubicación: Madrid, España
+
+### Enlaces
+
+- [Perfil de GitHub](https://github.com/sebasbh)
+- [Perfil de LinkedIn](https://www.linkedin.com/in/sebastian-benavides-heins/)
