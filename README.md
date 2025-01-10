@@ -45,20 +45,6 @@ Habilidades Clave 🧠
 	•	Ciberseguridad: Auditoría de sistemas y prácticas seguras de desarrollo.
 	•	Gestión Ágil: Experiencia en metodologías Scrum y Kanban.
 
-Proyectos Destacados 💡
-
-Sentix
-
-Sistema Autónomo de Defensa Cibernética y Simulación de Ataques.
-	•	🌐 Tecnologías: React, Node.js, MongoDB, Kali Linux.
-	•	🛡️ Diseñado para proteger sistemas y educar sobre vulnerabilidades.
-
-MyFinancePro
-
-Dashboard para Finanzas Personales.
-	•	💵 Herramienta para gestionar ingresos, gastos y metas financieras.
-	•	🖥️ Tecnologías: React, Express, y MongoDB.
-
 Encuéntrame en la web 🌐
 	•	LinkedIn: Sebastian Benavides Heins
 	•	Portfolio: Mi Portfolio
