@@ -1,27 +1,71 @@
-# Hola, soy Sebastian Benavides Heins 👋
+Hola, soy Sebastian Benavides Heins 👋
 
-## Jr Full Stack Developer Especializado en MERN 💻
+Jr Full Stack Developer Especializado en MERN 💻
 
-🚀 Apasionado por la tecnología y el desarrollo de software. Como desarrollador full stack junior especializado en el stack MERN, disfruto enfrentando desafíos y aprendiendo constantemente.
+🚀 Apasionado por la tecnología y el desarrollo de software. Como desarrollador full stack junior especializado en el stack MERN, disfruto enfrentando desafíos y aprendiendo constantemente para crear soluciones innovadoras y eficientes.
 
-### Sobre mí 🌟
-- 🏢 **En búsqueda activa de oportunidades**
-- 🌱 Aprendiendo constantemente sobre `React`, `Node.js`, y tecnologías de desarrollo web modernas.
-- ⚙️ Uso diario: ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/48/000000/javascript.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-- 🌍 Busco colaborar en **proyectos innovadores y desafiantes**, especialmente en el desarrollo de aplicaciones web y móviles.
-- 📫 Contáctame en: [![Email](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:sebasheins@gmail.com)
+Sobre mí 🌟
+	•	🏢 En búsqueda activa de nuevas oportunidades en tecnología.
+	•	🌱 Enfocado en perfeccionar habilidades en React, Node.js, y diseño de sistemas escalables.
+	•	🔍 Interesado en ciberseguridad y el desarrollo de aplicaciones innovadoras.
+	•	📈 Habilidades clave: Desarrollo Frontend y Backend, buenas prácticas, y auditoría web.
+	•	🛠️ Actualmente trabajando en Sentix, un sistema autónomo de defensa cibernética.
+	•	🌍 Abierto a colaborar en proyectos desafiantes y de impacto global.
+	•	📫 Contáctame: sebasheins@gmail.com
 
-### Habilidades 🔥
-- **Frontend**: ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Redux](https://img.icons8.com/color/48/000000/redux.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- **Backend**: ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/48/000000/javascript.png)
-- **Bases de Datos**: ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-- **Herramientas y Otros**: ![Git](https://img.icons8.com/color/48/000000/git.png) ![npm](https://img.icons8.com/color/48/000000/npm.png)
-  
-### Encuéntrame en la web 🌐
-- LinkedIn: [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/sebastian-benavides-heins/)
-- Portfolio: [![Portfolio](https://img.icons8.com/fluency/48/000000/web-design.png)](https://sebastiancreativeportfolio.vercel.app)
+Stack Tecnológico 🔥
 
----
+Frontend
+	•	React
+	•	HTML5
+	•	CSS3
+	•	JavaScript
+	•	Bootstrap
+	•	Tailwind CSS
 
-⭐️ De **Sebastian Benavides Heins** en GitHub
+Backend
+	•	Node.js
+	•	Express.js
+	•	MongoDB
+	•	SQL
 
+Auditoría Web
+	•	Herramientas: Kali Linux, Postman, BurpSuite, Nmap, Zap Proxy, entre otras.
+	•	Enfocado en el Top 10 OWASP.
+
+Herramientas
+	•	Git
+	•	GitHub
+	•	Figma
+	•	Jest
+
+Habilidades Clave 🧠
+	•	Frontend Avanzado: React, diseño de UI/UX, Material UI, Tailwind CSS.
+	•	Backend: APIs RESTful, Node.js, Express.js, MongoDB.
+	•	Ciberseguridad: Auditoría de sistemas y prácticas seguras de desarrollo.
+	•	Gestión Ágil: Experiencia en metodologías Scrum y Kanban.
+
+Proyectos Destacados 💡
+
+Sentix
+
+Sistema Autónomo de Defensa Cibernética y Simulación de Ataques.
+	•	🌐 Tecnologías: React, Node.js, MongoDB, Kali Linux.
+	•	🛡️ Diseñado para proteger sistemas y educar sobre vulnerabilidades.
+
+MyFinancePro
+
+Dashboard para Finanzas Personales.
+	•	💵 Herramienta para gestionar ingresos, gastos y metas financieras.
+	•	🖥️ Tecnologías: React, Express, y MongoDB.
+
+Encuéntrame en la web 🌐
+	•	LinkedIn: Sebastian Benavides Heins
+	•	Portfolio: Mi Portfolio
+	•	GitHub: Sebastian Benavides
+
+Mi Filosofía ✨
+
+“El código es más que líneas, es el puente entre ideas y soluciones.”
+
+⭐️ De Sebastian Benavides Heins en GitHub
