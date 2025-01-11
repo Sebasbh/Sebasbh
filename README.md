@@ -13,35 +13,35 @@
 - 📈 **Habilidades clave:** Desarrollo Frontend y Backend, buenas prácticas, y auditoría web.
 - 🛠️ Actualmente trabajando en **Sentix**, un sistema autónomo de defensa cibernética.
 - 🌍 Abierto a colaborar en proyectos desafiantes y de impacto global.
-- 📫 **Contáctame:** sebasheins@gmail.com
+- 📫 **Contáctame:** [sebasheins@gmail.com](mailto:sebasheins@gmail.com)
 
 ---
 
 ### Stack Tecnológico 🔥
 
 #### **Frontend**
-- React
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Tailwind CSS
+- [React](https://react.dev)
+- [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [Bootstrap](https://getbootstrap.com)
+- [Tailwind CSS](https://tailwindcss.com)
 
 #### **Backend**
-- Node.js
-- Express.js
-- MongoDB
-- SQL
+- [Node.js](https://nodejs.org)
+- [Express.js](https://expressjs.com)
+- [MongoDB](https://www.mongodb.com)
+- [SQL](https://www.mysql.com)
 
 #### **Auditoría Web**
-- Herramientas: Kali Linux, Postman, BurpSuite, Nmap, Zap Proxy, entre otras.
-- Enfocado en el **Top 10 OWASP**.
+- Herramientas: [Kali Linux](https://www.kali.org), [Postman](https://www.postman.com), [BurpSuite](https://portswigger.net/burp), [Nmap](https://nmap.org), [Zap Proxy](https://www.zaproxy.org), entre otras.
+- Enfocado en el **[Top 10 OWASP](https://owasp.org/www-project-top-ten/)**.
 
 #### **Herramientas**
-- Git
-- GitHub
-- Figma
-- Jest
+- [Git](https://git-scm.com)
+- [GitHub](https://github.com)
+- [Figma](https://figma.com)
+- [Jest](https://jestjs.io)
 
 ---
 
@@ -54,9 +54,9 @@
 ---
 
 ### Encuéntrame en la web 🌐
-- **LinkedIn:** [Sebastian Benavides Heins](#)
-- **Portfolio:** [Mi Portfolio](#)
-- **GitHub:** [Sebastian Benavides](#)
+- **LinkedIn:** [Sebastian Benavides Heins](https://www.linkedin.com/in/sebastian-benavides-heins/)
+- **Portfolio:** [Mi Portfolio](https://sebastiancreativeportfolio.vercel.app)
+- **GitHub:** [Sebastian Benavides](https://github.com/sebastianbenavides)
 
 ---
 
